@@ -1,16 +1,23 @@
-# project_face
+A sleek Flutter mobile app that uses Face/Fingerprint Authentication to unlock and display interactive weather charts. Perfect for showcasing biometric security, animations, and dynamic UI in Flutter.
+🚀 Features
+🔐 Biometric Authentication
 
-A new Flutter project.
+Face and Fingerprint support using local_auth
+📊 Interactive Weather Charts
+Smooth animated line & bar charts using fl_chart
+🌗 Dark & Light Theme Support
+📦 Modular Code Structure
+Easy to extend and integrate with APIs
 
-## Getting Started
+📍  Future support for:
+Weather APIs (OpenWeatherMap)
 
-This project is a starting point for a Flutter application.
+Quote or Challenge of the Day
+🔧 Tech Stack
+💙 Flutter
+🎨 fl_chart for graphs
+🔐 local_auth for biometrics
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧑‍💻 Author
+Irfan Habib
+GitHub • LinkedIn
